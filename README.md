@@ -1,4 +1,7 @@
-# ResumeBuilder - Lets automate the process of creating an attractive resume.
+# ResumeBuilder
+
+Simple and effective app which automates the process of creating a resume. This app was built for the competition 'Compose Camp' under 'Build For Community' category in my college. Tech Stacks used - React Native, Expo modules
+
 1. Clone or download this app as zip file.
 2. Make sure you have installed node.js on your PC(preferred ver - 14<LTS<15 since react native expo supports this version).
 3. Open it with VS code or any code editor.
